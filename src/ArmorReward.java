@@ -1,8 +1,6 @@
-package Rewards;
-
 import java.util.Random;
 
-public class ArmorReward implements GameItem {
+public class ArmorReward implements GameItem{
 
     Random random = new Random();
     @Override

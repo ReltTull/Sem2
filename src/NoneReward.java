@@ -1,5 +1,3 @@
-package Rewards;
-
 public class NoneReward implements GameItem {
     @Override
     public void open() {

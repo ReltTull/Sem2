@@ -1,5 +1,3 @@
-package Rewards;
-
 public class GenReward implements GameItem {
     @Override
     public void open()
